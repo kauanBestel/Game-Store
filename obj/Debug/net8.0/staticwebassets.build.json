@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "KRHKhHRfaF8wJGv8q4TR7d5QwowqYhl2ppVOHRoh/Nc=",
+  "Source": "GameStore.frontend",
+  "BasePath": "_content/GameStore.frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore.frontend\\wwwroot",
+      "Source": "GameStore.frontend",
+      "ContentRoot": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\wwwroot\\",
+      "BasePath": "_content/GameStore.frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.frontend.styles.css",
+      "SourceId": "GameStore.frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GameStore.frontend",
+      "RelativePath": "GameStore.frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.frontend.bundle.scp.css",
+      "SourceId": "GameStore.frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GameStore.frontend",
+      "RelativePath": "GameStore.frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\wwwroot\\app.css",
+      "SourceId": "GameStore.frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kauan\\Documents\\code\\meus\\asp.net GameStore\\GameStore.frontend\\wwwroot\\",
+      "BasePath": "_content/GameStore.frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
